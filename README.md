@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Desarrollado por: Juan Andres Jacome
 
-Things you may want to cover:
+Link del video: https://www.loom.com/share/1201c5551fc740ab80546c6228b7ad15
+Link del deployment: https://aqueous-everglades-59691.herokuapp.com/
 
-* Ruby version
+Título del proyecto: Cars App (Video)
 
-* System dependencies
+Descripción del proyecto:
 
-* Configuration
+Video descriptivo que muestra como deployar una aplicacion de ruby on rails en heroku de manera correcta solucionando culaquier error que llegue a surgir. Esta aplicación permite realizar las operaciones CRUD de un modelo "carros".
 
-* Database creation
+Para lograr deployar el proyecto de manera eficaz dentro de la plataforma “Heroku”, se tuvo que cambiar la base de datos de sqlite3 a postgresql, debido a que, la plataforma no soporta sqlite3.
 
-* Database initialization
+Como usar el proyecto:
 
-* How to run the test suite
+Es muy sencillo de usar, debido a que únicamente es una aplicación CRUD básica de carros para mostrar como deployar un proyecto heroku con postgresql de manera eficiente.
 
-* Services (job queues, cache servers, search engines, etc.)
+Información adicional:
 
-* Deployment instructions
-
-* ...
+Ruby version: 3.0.0 Rails version: 6.1.5 pg version: 1.3.5
